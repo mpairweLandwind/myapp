@@ -1,0 +1,19 @@
+current directory: /home/landwind/myapp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/home/landwind/.rvm/rubies/ruby-3.3.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/landwind/myapp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240719-240164-txbaos sitelibdir\=./.gem.20240719-240164-txbaos clean
+
+current directory: /home/landwind/myapp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240719-240164-txbaos sitelibdir\=./.gem.20240719-240164-txbaos
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/landwind/myapp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240719-240164-txbaos sitelibdir\=./.gem.20240719-240164-txbaos install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240719-240164-txbaos/debug
+
+current directory: /home/landwind/myapp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240719-240164-txbaos sitelibdir\=./.gem.20240719-240164-txbaos clean
